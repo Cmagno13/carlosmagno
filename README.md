@@ -9,7 +9,7 @@ Criação de dashboards e painéis de indicadores: Utilizo ferramentas de visual
 Análise de dados: Utilizo técnicas de análise de dados para identificar padrões e tendências, a fim de gerar insights que possam ser utilizados para melhorar os negócios.
 Desenvolvimento de modelos de dados: Utilizo modelos de aprendizado de máquina para prever comportamentos e tendências, a fim de tomar decisões mais assertivas.
 Tenho experiência em uma variedade de tecnologias e ferramentas de Ciência de Dados, incluindo:
-
+##
 </div>
 ### Algumas tecnologias que utilizo:
 
@@ -24,9 +24,6 @@ Tenho experiência em uma variedade de tecnologias e ferramentas de Ciência de 
 ##
 
   
-
-
-
 
 ##
 

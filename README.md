@@ -29,7 +29,7 @@ Tenho experiência em uma variedade de tecnologias e ferramentas de Ciência de 
 | Python |
 | SQL |
 | **Ferramentas de análise de dados** |
-| Knime |
+| Knime, Power BI, Looker Studio, Tableau |
 
 
 ##

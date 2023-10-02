@@ -13,6 +13,7 @@ Tenho experiência em uma variedade de tecnologias e ferramentas de Ciência de 
 
 ### Algumas tecnologias que utilizo:
 
+
 | Tipo | Tecnologia |
 |---|---|
 | **Plataformas de Big Data** |

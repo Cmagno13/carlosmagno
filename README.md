@@ -10,12 +10,12 @@ Análise de dados: Utilizo técnicas de análise de dados para identificar padr�
 Desenvolvimento de modelos de dados: Utilizo modelos de aprendizado de máquina para prever comportamentos e tendências, a fim de tomar decisões mais assertivas.
 Tenho experiência em uma variedade de tecnologias e ferramentas de Ciência de Dados, incluindo:
 
-## Python
-## R
-##SQL
-## Power BI
-## Apache Spark
-## Hadoop
+## **Python** 
+## **R**
+## **SQL**
+## **Power BI**
+## **Apache Spark**
+## **Hadoop**
 
 ### Algumas tecnologias que utilizo:
 ##

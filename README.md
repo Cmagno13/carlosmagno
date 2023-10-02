@@ -24,7 +24,7 @@ Tenho experiência em uma variedade de tecnologias e ferramentas de Ciência de 
 | Apache Druid | Plataforma de análise de dados de código aberto que é otimizada para análise de dados em tempo real. É uma plataforma flexível que pode ser usada para uma variedade de propósitos, desde análise de negócios até análise de segurança. |
 | Apache Hive | Framework de processamento de dados de código aberto que permite aos usuários executar consultas SQL em dados armazenados no Hadoop. É uma ferramenta poderosa que pode ser usada para analisar dados armazenados no Hadoop. |
 
-**Descrição das linguagens de programação para Big Data**
+|**Descrição das linguagens de programação para Big Data**|
 
 * Scala | Linguagem de programação funcional de alto nível que é frequentemente usada para desenvolvimento de Big Data. É uma linguagem eficiente que pode ser usada para escrever código rápido e escalável. |
 * JavaScript | Linguagem de programação de script de alto nível que é frequentemente usada para desenvolvimento web e mobile. É uma linguagem versátil que pode ser usada para uma variedade de propósitos, incluindo análise de dados. |

@@ -13,12 +13,22 @@ Tenho experiência em uma variedade de tecnologias e ferramentas de Ciência de 
 </div>
 ### Algumas tecnologias que utilizo:
 
-**Python** 
-**R**
-**SQL**
-**Power BI**
-**Apache Spark**
-**Hadoop**
+| Tipo | Tecnologia |
+|---|---|
+| **Plataformas de Big Data** |
+| Apache Spark |
+| Hadoop |
+| Pentaho |
+| Apache Superset |
+| Apache Druid |
+| Apache Hive |
+| **Linguagens de programação** |
+| Scala |
+| JavaScript |
+| Python |
+| SQL |
+| **Ferramentas de análise de dados** |
+| Knime |
 
 
 ##

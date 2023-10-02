@@ -1,6 +1,6 @@
 ### Olá viajante! 🧭
 
-_Analista de Dados com experiência em projetos de BI e Big Data
+**Analista de Dados com experiência em projetos de BI e Big Data*
 
 Com 10 anos de experiência nas áreas de Administração, Financeiro e Tecnologia, sou um profissional com foco em Ciência de Dados. 
 Atualmente atuo como Analista de Dados em uma empresa de tecnologia, onde sou responsável por:

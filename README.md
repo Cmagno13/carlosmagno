@@ -19,8 +19,8 @@ Tenho experiência em uma variedade de tecnologias e ferramentas de Ciência de 
 | Plataformas de Big Data | Ambientes de computação em cluster de código aberto para armazenamento e processamento de Big Data. |
 | Hadoop | Framework de computação em cluster de código aberto para armazenamento e processamento de Big Data. É um framework robusto que pode ser usado para armazenar dados em grandes quantidades e processá-los de forma eficiente. |
 | Pentaho | Plataforma de análise de dados de código aberto que inclui ferramentas para coleta, limpeza, análise e visualização de dados. É uma plataforma abrangente que pode ser usada para uma variedade de propósitos, desde análise exploratória até análise preditiva. |
-| Apache Superset | Ferramenta de visualização de dados de código aberto que permite aos usuários criar dashboards e relatórios personalizados. É uma ferramenta poderosa que pode ser usada para visualizar dados de uma variedade de fontes. |
-| Apache Druid | Plataforma de análise de dados de código aberto que é otimizada para análise de dados em tempo real. É uma plataforma flexível que pode ser usada para uma variedade de propósitos, desde análise de negócios até análise de segurança. |
+| Apache Superset | Ferramenta de visualização de dados de código aberto que permite aos usuários criar dashboards e relatórios personalizados. |
+| Apache Druid | Plataforma de análise de dados de código aberto que é otimizada para análise de dados em tempo real. |
 | Apache Hive | Framework de processamento de dados de código aberto que permite aos usuários executar consultas SQL em dados armazenados no Hadoop. |
 
 | Linguagens de programação | Descrição |
@@ -30,7 +30,7 @@ Tenho experiência em uma variedade de tecnologias e ferramentas de Ciência de 
 | Python | Linguagem de programação de alto nível que é poderosa e pode ser usada para uma variedade de tarefas. |
 | SQL | Linguagem de consulta estruturada que é essencial para qualquer pessoa que trabalha com dados. |
 
-| Ferramentas de análise de dados | Descrição |
+| Ferramentas de análise de dados |
 |---|---|
 | Knime | Ferramenta de análise de dados de código aberto que permite aos usuários criar fluxos de trabalho visuais para análise de dados. |
 | Power BI | Ferramenta de business intelligence da Microsoft que permite aos usuários criar visualizações de dados interativas e relatórios. |

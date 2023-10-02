@@ -2,19 +2,20 @@
 
 Analista de Dados com experiência em projetos de BI e Big Data
 
-Com 10 anos de experiência nas áreas de Administração, Financeiro e Tecnologia, sou um profissional com foco em Ciência de Dados. Atualmente atuo como Analista de Dados em uma empresa de tecnologia, onde sou responsável por:
+Com 10 anos de experiência nas áreas de Administração, Financeiro e Tecnologia, sou um profissional com foco em Ciência de Dados. 
+Atualmente atuo como Analista de Dados em uma empresa de tecnologia, onde sou responsável por:
 
 Criação de dashboards e painéis de indicadores: Utilizo ferramentas de visualização de dados para apresentar informações de forma clara e concisa, a fim de apoiar a tomada de decisão.
 Análise de dados: Utilizo técnicas de análise de dados para identificar padrões e tendências, a fim de gerar insights que possam ser utilizados para melhorar os negócios.
 Desenvolvimento de modelos de dados: Utilizo modelos de aprendizado de máquina para prever comportamentos e tendências, a fim de tomar decisões mais assertivas.
 Tenho experiência em uma variedade de tecnologias e ferramentas de Ciência de Dados, incluindo:
 
-Python
-R
-SQL
-Power BI
-Apache Spark
-Hadoop
+## Python
+## R
+##SQL
+## Power BI
+## Apache Spark
+## Hadoop
 
 ### Algumas tecnologias que utilizo:
 ##

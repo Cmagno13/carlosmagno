@@ -15,7 +15,7 @@ Tenho experiência em uma variedade de tecnologias e ferramentas de Ciência de 
 
 
 | Tipo | Descrição |
-|---||---|
+|---|---|
 | **Plataformas de Big Data** |
 | Ambiente de computação em cluster de código aberto para processamento de Big Data. É uma plataforma versátil que pode ser usada para uma variedade de tarefas, incluindo processamento de dados em batch, streaming de dados e análise de dados. |
 | Hadoop | Framework de computação em cluster de código aberto para armazenamento e processamento de Big Data. É um framework robusto que pode ser usado para armazenar dados em grandes quantidades e processá-los de forma eficiente. |

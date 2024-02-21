@@ -29,7 +29,7 @@ Tenho experiência em uma variedade de tecnologias e ferramentas de Ciência de 
 | Linguagens de programação | Descrição |
 |---|---|
 | Scala | Linguagem de programação funcional de alto nível que é eficiente e escalável. |
-| JavaScript | Linguagem de programação de script de alto nível que é versátil e pode ser usada para uma variedade de propósitos. |
+| R | A linguagem R pode ser utilizada em todo o processo analítico dos dados, como coleta, mineração, Machine Learning, interpretação e apresentação desses a partir de gráficoss. |
 | Python | Linguagem de programação de alto nível que é poderosa e pode ser usada para uma variedade de tarefas. |
 | SQL | Linguagem de consulta estruturada que é essencial para qualquer pessoa que trabalha com dados. |
 

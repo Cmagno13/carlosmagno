@@ -23,6 +23,9 @@ Tenho experiência em uma variedade de tecnologias e ferramentas de Ciência de 
 | Apache Druid | Plataforma de análise de dados de código aberto que é otimizada para análise de dados em tempo real. |
 | Apache Hive | Framework de processamento de dados de código aberto que permite aos usuários executar consultas SQL em dados armazenados no Hadoop. |
 
+-----------------------------------
+-----------------------------------
+
 | Linguagens de programação | Descrição |
 |---|---|
 | Scala | Linguagem de programação funcional de alto nível que é eficiente e escalável. |
@@ -30,7 +33,10 @@ Tenho experiência em uma variedade de tecnologias e ferramentas de Ciência de 
 | Python | Linguagem de programação de alto nível que é poderosa e pode ser usada para uma variedade de tarefas. |
 | SQL | Linguagem de consulta estruturada que é essencial para qualquer pessoa que trabalha com dados. |
 
-| Ferramentas de análise de dados |
+-----------------------------------
+-----------------------------------
+
+| Ferramentas de análise de dado | Descrição |
 |---|---|
 | Knime | Ferramenta de análise de dados de código aberto que permite aos usuários criar fluxos de trabalho visuais para análise de dados. |
 | Power BI | Ferramenta de business intelligence da Microsoft que permite aos usuários criar visualizações de dados interativas e relatórios. |
